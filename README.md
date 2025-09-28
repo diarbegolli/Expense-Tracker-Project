@@ -40,7 +40,7 @@ By Month:
 ## How to Run
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/expense-tracker-project.git
+   git clone https://github.com/<diarbegolli>/expense-tracker-project.git
    cd expense-tracker-project
 Run the program in Google Colab or locally with Python:
 
